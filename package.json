@@ -1,0 +1,33 @@
+{
+    "name": "brownie-theme",
+    "displayName": "Brownie Theme",
+    "description": "A theme full of different shades of brown.",
+    "version": "0.0.1",
+    "author": "Drew Markel",
+    "Publisher": "DrewMarkel",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/drewmrk/vscode-brownie-theme"
+    },
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "keywords": [
+        "brown",
+        "food",
+        "brownie"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brownie Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Brownie-Theme-color-theme.json"
+            }
+        ]
+    }
+}
