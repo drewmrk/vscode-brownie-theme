@@ -7,7 +7,3 @@ This is a simple theme composed of different shades of brown that are easy on th
 ![Syntax Color](./2.png)
 
 ![Syntax Color](./3.png)
-
-Theme created by Drew Markel.
-
-https://www.twitter.com/markeldrew
